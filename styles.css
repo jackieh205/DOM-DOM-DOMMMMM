@@ -1,0 +1,18 @@
+.square{
+    border: 10px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+    
+
+}
+
+.square div{
+    display: flex;
+    flex-direction: row;
+}
+
+.containers div{
+    display:flex;
+    flex-direction: row;
+}
