@@ -1,18 +1,16 @@
 .square{
-    border: 10px solid black;
+    display:flex;
+    border: 10px solid greenyellow;
     height: 100px;
     width: 100px;
-    background-color: greenyellow;
-    
+    background-color: black;
+    color: white;
+    font-size: 50px;
+
 
 }
-
-.square div{
-    display: flex;
-    flex-direction: row;
+.container{
+   flex-direction: row;
+   
 }
 
-.containers div{
-    display:flex;
-    flex-direction: row;
-}
